@@ -72,7 +72,4 @@ This project helped strengthen my understanding of:
 
 ---
 
-## Repository
 
-**GitHub:**  
-**https://github.com/PAVITHRAK2/finance-tracker**
